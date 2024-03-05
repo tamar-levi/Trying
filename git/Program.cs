@@ -14,6 +14,8 @@ namespace git
             string s="hello world!!";
             int c = 0;
             char h = 'r';
+            Console.WriteLine("love us!!!!shani&tamar");
+
         }
     }
 }
